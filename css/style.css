@@ -400,6 +400,10 @@ header{
   fill: #2196f3;
 }
 
+.client-icons:hover{
+  background-color: #2196f3;
+}
+
 .client-icons {
   border: 1px solid #afb1b8;
   box-sizing: border-box;
